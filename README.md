@@ -17,5 +17,5 @@ Relay outputs
 Transistor Outputs
 DIN-Ril mount
 
-Datasheet:   https://drive.google.com/open?id=1SBZov176gUQk8Cc19gwEv1_mNpLx0q-c&usp=drive_fs
-User Guide:  https://drive.google.com/open?id=1S35zRAnZPZLu4IF2o82an9LTNUVpDeSn&usp=drive_fs
+Datasheet:   https://norvi.lk/docs/norvi-cema-m1-datasheet/
+User Guide:  https://norvi.lk/docs/user-guide-norvi-cema-m1/
